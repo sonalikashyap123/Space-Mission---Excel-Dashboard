@@ -54,6 +54,7 @@ The project uses a dataset containing **1,200 space mission records**.
 - Data Analysis
 - Data Visualization
 - Dashboard Design
+- <a href="https://github.com/sonalikashyap123/Space-Mission---Excel-Dashboard/blob/main/Space%20Mission%20Dashboard.xlsx"> View Dashboard</a>
 
 ## Key Insights
 
