@@ -6,7 +6,7 @@ The Space Mission Analytics Dashboard is an interactive Excel data analytics pro
 
 The dashboard provides insights into mission volume, launch success, budget allocation, payload, mission duration, destinations, and mission trends over time.
 
-## 📂 Dataset Used
+## Dataset Used
 
 The project uses a dataset containing **1,200 space mission records**.
 - <a href="https://github.com/sonalikashyap123/Space-Mission---Excel-Dashboard/blob/main/Space%20Mission%20dataset.xlsx"> Dataset</a>
@@ -63,13 +63,14 @@ The project uses a dataset containing **1,200 space mission records**.
 - LEO accounts for the largest share of mission destinations.
 - Mission activity remains relatively consistent across most years.
 - 2026 shows fewer missions because the dataset contains partial-year data.
+
 - <a href="https://github.com/sonalikashyap123/Space-Mission---Excel-Dashboard/blob/main/Space%20Mission%20Dashboard.xlsx"> View Dashboard</a>
 
 ## Dashboard
 <img width="1500" height="708" alt="Space Mission Screenshot" src="https://github.com/user-attachments/assets/a200611e-365a-47b1-87a3-ce8a73e36ecb" />
 
 
-## 👩‍💻 Author
+## Author
 
 Sonali Kashyap
 Aspiring Data Analyst
